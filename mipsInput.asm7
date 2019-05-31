@@ -1,0 +1,4 @@
+      ori $s2, $zero, 451
+loop: addi $t3, $t2, 73
+      lw $t4, 100($s1)
+      bne $t5, $zero, loop

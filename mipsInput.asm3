@@ -1,0 +1,4 @@
+add $s1, $s0, $s0
+add $t2, $s1, $s5
+addi $s1, $s3, 70
+lw $s1, 451($zero)

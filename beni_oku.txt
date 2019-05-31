@@ -1,0 +1,4 @@
+Ödev NetBeans IDE kullanýlarak. Java programlama dili ile yazýlmýþtýr.
+mipsInput dosyasýna mips kodunuzu giriniz. 
+Yorumlama satýrlarýný kullanmayýnýz veya ilgili kodun yanýna yazýnýz.
+Çýkan out.asm Mars MIPS simulatörde çalýþtýrýlabilir.
